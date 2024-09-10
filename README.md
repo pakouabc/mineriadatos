@@ -1,0 +1,2 @@
+# mineriadatos
+Aprendiendo git
